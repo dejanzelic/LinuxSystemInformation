@@ -20,6 +20,7 @@ devfs                              334Ki  334Ki    0Bi   100%      1156        0
 /dev/disk1s1                       466Gi  398Gi   68Gi    86% 104331335 17765047   85%   /Volumes/Files
 map -hosts                           0Bi    0Bi    0Bi   100%         0        0  100%   /net
 map auto_home                        0Bi    0Bi    0Bi   100%         0        0  100%   /home
+
 Home Space Utilization
 
  31G	/Users/dejan
@@ -27,4 +28,4 @@ Home Space Utilization
 
 Citation
 ======================
-This script was developed by following the guide in the book The Linux Command Line: A Complete Introduction Paperback by William E. Shotts Jr.
+This script was developed by following the guide in the book [The Linux Command Line: A Complete Introduction Paperback](http://www.amazon.com/The-Linux-Command-Line-Introduction/dp/1593273894) by William E. Shotts Jr.
