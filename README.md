@@ -2,6 +2,10 @@ Linux System Information
 ======================
 Very simple script that prints out general system information including uptime, Disk Space utilization, and Home Space Utilization
 
+Citation
+======================
+This script was developed by following the guide in the book [The Linux Command Line: A Complete Introduction Paperback](http://www.amazon.com/The-Linux-Command-Line-Introduction/dp/1593273894) by William E. Shotts Jr.
+
 Sample
 ======================
 ```
@@ -25,7 +29,3 @@ Home Space Utilization
 
  31G	/Users/dejan
 ```
-
-Citation
-======================
-This script was developed by following the guide in the book [The Linux Command Line: A Complete Introduction Paperback](http://www.amazon.com/The-Linux-Command-Line-Introduction/dp/1593273894) by William E. Shotts Jr.
