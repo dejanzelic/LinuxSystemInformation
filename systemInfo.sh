@@ -57,7 +57,7 @@ return
 }
 
 usage(){
-    echo $PROGNAME: usage: $PROGNAME [-f file | -i
+    echo "$PROGNAME: usage: $PROGNAME [-f file | -i]"
     return
 }
 # process command line options
